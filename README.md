@@ -1,4 +1,6 @@
-### Hi there 👋
+### Thibaut Lamadon Github profile
+
+Please see my personal page at (lamadon.com)[https://lamadon.com].
 
 <!--
 **tlamadon/tlamadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
