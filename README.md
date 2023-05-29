@@ -1,6 +1,8 @@
 ### Thibaut Lamadon Github profile
 
-Please see my personal page at (lamadon.com)[https://lamadon.com].
+Please see my personal page at [lamadon.com](https://lamadon.com).
+
+I will update this page soon!
 
 <!--
 **tlamadon/tlamadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
