@@ -1,4 +1,4 @@
-### Thibaut Lamadon Github profile
+### Thibaut Lamadon
 
 Please see my personal page at [lamadon.com](https://lamadon.com).
 
